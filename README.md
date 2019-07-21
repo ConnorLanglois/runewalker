@@ -21,9 +21,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/RuneWalker.au3
-	```
+```
+src/RuneWalker.au3
+```
 
 ## Authors
 
